@@ -16,6 +16,7 @@ The mind loves nature and technology, soo crazy!
 
 It's hard to choose just one code language, I prefer to look at the problem I want to solve and create the architecture for it (but I'm in love with python S2).
 
+Bachelor in Computer Engineering. 
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelsilva&show_icons=true&theme=radical)
