@@ -37,7 +37,8 @@ With over **10 years of experience**, I bridge the gap between high-level softwa
 ### 📬 Find me on:
 
 * [LinkedIn](https://www.linkedin.com/in/engraphael/)
-* [Personal Portfolio](mailto:eng.raphaelsn@gmail.com)
+* [Personal Portfolio](https://aboutme.tocadorapha.com.br/)
+* [Email](mailto:eng.raphaelsn@gmail.com)
 
 ---
 
