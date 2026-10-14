@@ -1,29 +1,36 @@
-# Hi, I'm Raphael 👋 
+# Hi, I'm Raphael 👋
 
-### Senior Software Engineer | Full-Stack & System Verification
+### Senior Software Engineer | Backend · Node.js/TypeScript · Java · Python · AWS
 
-With over **10 years of experience**, I bridge the gap between high-level software architecture and low-level hardware verification. My coding philosophy centers on clean architecture, SOLID principles, and building scalable, reliable systems.
+I'm a backend-focused software engineer with **15+ years of experience** building reliable, scalable systems, from serverless microservices on AWS to Java backends in the payments space. My background in semiconductor verification (ASIC/UVM) shaped how I work: test-driven, detail-oriented and focused on correctness. I value clean architecture, SOLID principles and systems that are easy to evolve.
 
 ---
 
-### 🛠 My Technical Toolkit
+### 🛠 Tech Stack
 
-| Domain | Technologies & Languages |
+| Area | Technologies |
 | :--- | :--- |
-| **Backend & Cloud** | Python, TypeScript/JavaScript (Node.js), Java, C#, AWS Lambda, Microservices |
-| **Frontend & Mobile** | React.js, Vue.js, Flutter (Dart), Android (Kotlin/Java) |
-| **Hardware & Embedded** | C, C++, SystemVerilog (UVM), Verilog, Yocto |
-| **Data & Databases** | PostgreSQL, MongoDB, DynamoDB, SQL Server, ETL Pipelines |
-| **DevOps & Tools** | Docker, Proxmox, Git, Linux (Bash/Tmux), CI/CD |
+| **Primary** | TypeScript / Node.js, Java, Python |
+| **Cloud & Serverless** | AWS (Lambda, DynamoDB, OpenSearch), Microservices, Event-driven APIs |
+| **Data** | PostgreSQL, MongoDB, DynamoDB, SQL Server, ETL pipelines |
+| **DevOps & IaC** | Docker, Terraform, AWS CDK, CI/CD, Git, Linux |
+| **Secondary** | C#, React, Vue.js, C/C++, SystemVerilog (UVM) |
 
 ---
 
-### 🚀 Key Coding Expertise
+### 🚀 What I Do
 
-* **Microservices & API Design:** Heavy experience in building Node.js/TypeScript services and AWS Lambda functions that handle high-concurrency data flows.
-* **System Verification:** Expert in ASIC/FPGA verification using **SystemVerilog** and **UVM**, ensuring the reliability of complex hardware designs.
-* **Automation & Scripting:** Prolific in **Python** for data scraping (Selenium), ETL processes, and automation tools for industrial environments (ModBus/OPC-UA).
-* **Legacy Modernization:** I specialize in porting and refactoring legacy systems (Cobol/Delphi) into modern architectures like C# and Java.
+* **Backend & APIs:** Node.js/TypeScript services and AWS serverless architectures for high-traffic products. For example, I cut DynamoDB latency on a chat platform from 40 ms to 3 ms.
+* **Java Backend:** Building and maintaining backend services for payment flows.
+* **Legacy Modernization:** Migrating legacy systems (C#, COBOL, Delphi) to modern stacks like Node.js, Java and C#.
+* **Automation & Data:** Python for ETL, data scraping and industrial automation (ModBus/OPC-UA).
+* **Verification Roots:** ASIC/FPGA verification with SystemVerilog and UVM.
+
+---
+
+### 🎯 Featured Project
+
+* **[ArenaQuest](https://github.com/RaphaelSilva/ArenaQuest):** my open-source project, the application behind [taibudo.com](https://taibudo.com).
 
 ---
 
@@ -34,7 +41,7 @@ With over **10 years of experience**, I bridge the gap between high-level softwa
 
 ---
 
-### 📬 Find me on:
+### 📬 Find me on
 
 * [LinkedIn](https://www.linkedin.com/in/engraphael/)
 * [Personal Portfolio](https://aboutme.tocadorapha.com.br/)
@@ -43,11 +50,3 @@ With over **10 years of experience**, I bridge the gap between high-level softwa
 ---
 
 *"I am passionate about leveraging technology for environmental improvement and community well-being."*
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelsilva&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelsilva&hide=contribs,prs)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelsilva)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsilva&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
